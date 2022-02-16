@@ -104,6 +104,8 @@ export class App extends React.Component {
        return res.json();
       }).then((res2) => {
         console.log(res2)     });
+    let resultStr = query + query2 + query3;
+        toString(resultStr);
    /*if(this.state.playlistName && trackURIs){
    this.state.searchResults.forEach( track => {
      trackURIs.push(track);
