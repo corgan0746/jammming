@@ -1,5 +1,5 @@
 const client_id = '1edc4b8b80af42cca986d57acb804942';
-const URI = 'http://localhost:3000/';
+const URI = 'https://fervent-ramanujan-fc60c5.netlify.app/';
   
 let userToken;
 
